@@ -46,7 +46,7 @@ const Todo = () => {
         <input
           ref={inputRef}
           type="text"
-          placeholder="Enter your tasks"
+          placeholder="Enter your tasks and (deadlines)"
           className="todo-input"
         />
         <div onClick={add} className="todo-add-btn">Add</div>
