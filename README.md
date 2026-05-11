@@ -25,9 +25,7 @@ A modern and responsive Todo List application built to help users manage daily t
 ### Frontend
 
 * React.js
-* TypeScript
 * Tailwind CSS
-* Axios
 * React Router
 
 ### Deployment
